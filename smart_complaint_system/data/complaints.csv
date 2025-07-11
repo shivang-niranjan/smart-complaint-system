@@ -1,0 +1,12 @@
+# data/complaints.csv
+complaint_id,description,category,severity,location,date,resolution_status
+1001,"No water supply in my area since morning.",Water,High,"Ward 12, Pune","2025-05-27",Pending
+1002,"Street light not working near Sector 21 park.",Electricity,Medium,"Sector 21, Delhi","2025-05-26",Pending
+1003,"Garbage overflowing at the main market.",Sanitation,High,"Market Area, Mumbai","2025-05-27",Pending
+1004,"Potholes on the main road causing traffic jams.",Roads,Medium,"Main Road, Bangalore","2025-05-26",Pending
+1005,"Minor water leak in the public tap.",Water,Low,"Community Park, Chennai","2025-05-27",Resolved
+1006,"Power outage in the hospital area.",Electricity,Critical,"City Hospital, Kolkata","2025-05-27",Pending
+1007,"Drainage overflowing near residential complex.",Sanitation,High,"Residential Complex, Hyderabad","2025-05-26",Pending
+1008,"Traffic signal not working at the intersection.",Traffic,Medium,"Main Intersection, Delhi","2025-05-27",Pending
+1009,"Illegal construction blocking public pathway.",Encroachment,Medium,"Public Pathway, Pune","2025-05-26",Pending
+1010,"Stray dog menace in the neighborhood.",Animal Control,Low,"Neighborhood Park, Mumbai","2025-05-27",Pending

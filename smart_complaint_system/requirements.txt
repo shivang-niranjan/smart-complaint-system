@@ -1,0 +1,11 @@
+# requirements.txt
+flask
+flask-cors # Add this line
+pandas
+scikit-learn
+transformers
+torch # or tensorflow, depending on your NLP model backend
+nltk
+streamlit # for the dashboard
+psycopg2-binary # if using PostgreSQL
+pymongo # if using MongoDB

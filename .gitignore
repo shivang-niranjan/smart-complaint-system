@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python/
+env/
+venv/
+.venv/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# Data files
+data/
+*.csv # If you want to ignore all CSVs, including your complaints.csv
+# If you want to keep complaints.csv but ignore others, be more specific:
+!data/complaints.csv # Uncomment this line if you want to track complaints.csv
+# data/*.csv # Ignore all CSVs in data/ except those explicitly unignored
+
+# IDE specific files (e.g., VS Code)
+.vscode/
+.DS_Store
+
+# Downloaded models (Hugging Face cache)
+# These are usually stored in ~/.cache/huggingface or similar,
+# but if you ever save models directly into your project, ignore them.
+models/
+saved_models/
+
+# Logs
+*.log
+logs/
+
+# Environment variables
+.env
+.flaskenv
+
+# Streamlit specific
+.streamlit/

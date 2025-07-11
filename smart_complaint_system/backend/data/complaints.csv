@@ -1,0 +1,33 @@
+complaint_id,description,category,severity,location,urgency_score,date,resolution_status
+1001,garbage not collected,Traffic,Low,delhi,5,2025-07-09 20:37:54,Pending
+1002,Water pipe burst near school,Encroachment,Low,delhi,3,2025-07-09 20:39:50,Pending
+1003,garbage not collected,Traffic,Low,delhi,5,2025-07-09 20:40:25,Pending
+1004,garbage not collected,Traffic,Low,delhi,5,2025-07-09 20:40:27,Pending
+1005,garbage not collected,Traffic,Low,delhi,5,2025-07-09 20:40:28,Pending
+1006,garbage not collected,Traffic,Low,delhi,5,2025-07-09 20:40:30,Pending
+1007,water pipe burst near school,Roads,Low,delhi,6,2025-07-09 20:43:16,Pending
+1008,Massive water pipe burst on Main Street near City Hospital. Water is flooding the road and entering the hospital's emergency entrance. This is a critical situation!,Electricity,Critical,delhi,90,2025-07-09 20:44:20,Pending
+1009,"Power outage across Sector 15, affecting thousands of residents. It's been dark for hours, and elderly people are struggling. Urgent attention needed!",Water,High,UP,56,2025-07-09 20:45:09,Pending
+1010,"Garbage has been piling up for a week in the main market area. It's attracting rats and flies, and the smell is unbearable. This is a serious health hazard!",Encroachment,Low,MP,3,2025-07-09 20:46:04,Pending
+1011,"Huge sinkhole opened up on the highway near the city entrance. Cars are swerving to avoid it, and there's already been a minor accident. Extremely dangerous!",Electricity,High,MP,63,2025-07-09 20:46:37,Pending
+1012,There's a pack of aggressive stray dogs roaming near the children's park on Elm Street. They chased a child this morning. Please send help immediately!,Animal Control,Low,Delhi,2,2025-07-09 20:50:31,Pending
+1013,"Illegal construction has completely blocked the fire lane behind the apartment complex on Oak Avenue. Emergency vehicles cannot pass. This is a huge risk!
+",Encroachment,High,Delhi,21,2025-07-09 20:51:00,Pending
+1014,There's a pack of aggressive stray dogs roaming near the children's park on Elm Street. They chased a child this morning. Please send help immediately!,Roads,Critical,Delhi,7,2025-07-09 20:56:06,Pending
+1015,There's a small leak from a water meter outside house number 23 in Ward 5. It's been dripping for a day.,Water,Medium,Delhi,5,2025-07-10 10:43:33,Pending
+1016,"The street light outside my house on Maple Drive is flickering constantly. It's been like this for two days.
+",Water,Medium,Delhi,5,2025-07-10 10:44:05,Pending
+1017,"The street light outside my house on Maple Drive is flickering constantly. It's been like this for two days.
+",Water,Medium,Delhi,5,2025-07-10 10:44:13,Pending
+1018,"The street light outside my house on Maple Drive is flickering constantly. It's been like this for two days.
+",Water,Medium,Delhi,5,2025-07-10 10:44:14,Pending
+1019,"The street light outside my house on Maple Drive is flickering constantly. It's been like this for two days.
+",Water,Medium,Delhi,5,2025-07-10 10:44:16,Pending
+1020,"The street light outside my house on Maple Drive is flickering constantly. It's been like this for two days.
+",Water,Medium,Delhi,5,2025-07-10 10:44:18,Pending
+1021,The public dustbin near the bus stop on High Street is overflowing. It needs to be emptied soon.,Traffic,High,Delhi,5,2025-07-10 10:44:54,Pending
+1022,Massive water pipe burst on Main Street near City Hospital. Water is flooding the road and entering the hospital's emergency entrance. This is a critical situation!,Roads,Critical,Delhi,7,2025-07-10 10:46:11,Pending
+1023,"Power outage across Sector 15, affecting thousands of residents. It's been dark for hours, and elderly people are struggling. Urgent attention needed!",Water,High,Delhi,7,2025-07-10 10:46:47,Pending
+1024,"Huge sinkhole opened up on the highway near the city entrance. Cars are swerving to avoid it, and there's already been a minor accident. Extremely dangerous!",Sanitation,Critical,Delhi,7,2025-07-10 10:47:17,Pending
+1025,"Huge sinkhole opened up on the highway near the city entrance. Cars are swerving to avoid it, and there's already been a minor accident. Extremely dangerous!",Sanitation,Critical,Delhi,7,2025-07-10 10:49:12,Pending
+1026,"Huge sinkhole opened up on the highway near the city entrance. Cars are swerving to avoid it, and there's already been a minor accident. Extremely dangerous!",Sanitation,Critical,Delhi,7,2025-07-10 10:54:11,Pending
